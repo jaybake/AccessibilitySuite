@@ -1,0 +1,28 @@
+Accessibility Suite Roadmap
+
+Right now this software is one that takes care of most of the requirements of
+Section 508 compliance for a wordpress website. The exception is for the transcripts
+feature. For this inaugural release of the software in the open source market I've
+decided to set that as the first priority for developing further releases of this
+wonderful software.
+
+1. Transcripts module for deaf and hearing impaired
+2. Closed Captioning for audios and videos for the hearing impaired.
+3. Descriptive video module for blind and sight impaired
+4. Finish out WCAG 2.0 integration
+5. Fully integrate WIA/ARIA Standards
+
+I will expand on numbers 4 and 5 as time fits in. Thank you all for your generous
+support and well wishes.
+
+This has been a long standing dream of mine to see released and see it as a help
+to those seeking better accessibility online.
+
+In Christ,
+
+Jason Baker
+936.615.0724
+http://fb.com/jaybakerfx
+
+P.s. If this has truly helped you out or in some form has made an impact on your
+life I'd love to hear from you!

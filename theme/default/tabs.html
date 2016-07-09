@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html>
+	<head>
+		<title></title>
+        <script type="text/javascript" src="js/jquery-3.0.0.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css"/>
+		    <link rel="stylesheet" type="text/css" href="css/style.css" />
+	</head>
+	<body>
+  <div id="wrapper">
+		<div id="as_ui_tabs" class="style-tabs">
+			<ul>
+				<li><a href="#contrast"><div class="icon contrast-icon">Contrast Changer</div></a></li>
+				<li><a href="#font-changer"><div class="icon font-changer-icon">Font Changer</div></a></li>
+				<li><a href="#skip-nav"><div class="icon skip-nav-icon">Skip Navigation</div></a></li>
+				<li><a href="#text-only"><div class="icon text-only-icon">Text Only</div></a></li>
+			<!--	<li><a href="#transcript"><div class="icon transcript-icon">Transcripts</div></a></li>-->
+			</ul>
+			<div id="contrast">
+				content about contrast here 2
+			</div>
+			<div id="font-changer">
+				content about font-changer here
+			</div>
+			<div id="skip-nav">
+				content about skip-nav Plus here
+			</div>
+			<div id="text-only">
+				content about text-only here
+			</div>
+			<div id="transcript">
+				content about transcript here
+			</div>
+		</div>
+    </div>
+		<script type="text/javascript">
+			$(function() {
+				$('#as_ui_tabs').tabs();
+			});
+		</script>
+	</body>
+</html>
